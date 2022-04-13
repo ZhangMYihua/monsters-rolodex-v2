@@ -1,3 +1,4 @@
+import { Monster } from '../../App';
 import Card from '../card/card.component';
 import './card-list.styles.css';
 import { Monster } from '../../App';

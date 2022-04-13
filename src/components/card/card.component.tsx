@@ -1,6 +1,6 @@
-import './card.styles.css';
-
 import { Monster } from '../../App';
+
+import './card.styles.css';
 
 type CardProps = {
   monster: Monster;
