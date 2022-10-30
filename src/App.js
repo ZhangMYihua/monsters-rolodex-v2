@@ -30,7 +30,7 @@ const App = () => {
 
   return (
     <div className='App'>
-      <h1 className='app-title'>Monsters Rolodox</h1>
+      <h1 className='app-title'>Monsters Rolodoox</h1>
 
       <SearchBox
         className='monsters-search-box'
